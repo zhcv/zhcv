@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### ZHANG HAIPENG 
-👋👋 ✨✨ 🔭🔭 🌱🌱 👯👯 🤔🤔 💬💬 📫📫 😄😄 ⚡⚡
+<!-- 👋👋 ✨✨ 🔭🔭 🌱🌱 👯👯 🤔🤔 💬💬 📫📫 😄😄 ⚡⚡ -->
 
 ![](https://komarev.com/ghpvc/?username=zhcv&color=yellowgreen)
 
